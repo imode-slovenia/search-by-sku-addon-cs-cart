@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<addon scheme="2.0">
+	<id>search_by_sku</id>
+	<name>Search by SKU in API</name>
+	<description>Allows you to search by SKU in API</description>
+	<priority>1</priority>
+	<position>0</position>
+	<status>active</status>
+</addon>
